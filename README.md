@@ -26,6 +26,15 @@ This project analyzes historical UEFA Champions League data to uncover patterns 
 - Excel
 - GitHub for versionin!
 
+## 📎 Final Deliverable
+
+The final Excel dashboard includes:
+- 6 sheets with tables and embedded charts
+- Executive summary sheet
+- Automated export using Python (`xlsxwriter`)
+
+📥 [Download the Excel Report (from output folder)](UCL_Dashboard_Report_FINAL3.xlsx)
+
 ## ✍️ Author
 
 **Sonal I**  
