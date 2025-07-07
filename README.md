@@ -25,12 +25,12 @@ This project analyzes historical UEFA Champions League data to uncover patterns 
 - Google Colab
 - Excel
 - GitHub for versionin!
-- [chart_country_titles](https://github.com/user-attachments/assets/0c02623c-76cf-4076-b494-eda629d1ddfe)
-g![chart_top_coaches_appearances](https://github.com/user-attachments/assets/089223d8-0dad-4fe0-a74c-a432f5008fcd)
 
 ## ✍️ Author
 
 **Sonal I**  
 [LinkedIn](https://www.linkedin.com/in/sonal-i-719251196)
 
+![chart_country_titles](https://github.com/user-attachments/assets/83ee8f87-0306-42fa-8530-4774328d18e8)
+![chart_top_coaches_appearances](https://github.com/user-attachments/assets/9675f1f4-c72c-4411-8081-f25d40bf1951)
 
