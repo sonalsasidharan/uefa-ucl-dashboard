@@ -27,9 +27,6 @@ This project analyzes historical UEFA Champions League data to uncover patterns 
 - GitHub for versionin![chart_country_titles](https://github.com/user-attachments/assets/0c02623c-76cf-4076-b494-eda629d1ddfe)
 g![chart_top_coaches_appearances](https://github.com/user-attachments/assets/089223d8-0dad-4fe0-a74c-a432f5008fcd)
 
-##sample visuals
-
-
 ## ✍️ Author
 
 **Sonal I**  
