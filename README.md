@@ -32,3 +32,5 @@ g![chart_top_coaches_appearances](https://github.com/user-attachments/assets/089
 
 **Sonal I**  
 [LinkedIn](https://www.linkedin.com/in/sonal-i-719251196)
+
+##sample visuals
